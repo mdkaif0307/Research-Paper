@@ -1,4 +1,4 @@
-# 🌱 Prediction of Land Suitability for Crop Cultivation using Machine Learning
+# 🌱 Prediction of Land Suitability for Crop Cultivation using Data Analysis and  Machine Learning
 
 ## 📌 Overview
 
